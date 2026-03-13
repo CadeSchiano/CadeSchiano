@@ -22,7 +22,7 @@ Relevant coursework includes:
 - Python
 - C++
 - Kotlin (introductory)
-- HTML/CSS (basic)
+- HTML/CSS 
 
 **Tools & Technologies**
 - Git & GitHub

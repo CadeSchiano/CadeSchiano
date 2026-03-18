@@ -45,7 +45,7 @@ Relevant coursework includes:
   https://github.com/CadeSchiano/RLBOT
 
 - 📊 **Smart Activity Tracker** — Python-based application emphasizing clean architecture, real-world use cases, and separation of core logic from interface code  
-  https://github.com/CadeSchiano/smart-activity-tracker
+  https://github.com/CadeSchiano/smart_activity_tracker
 
 - 🕹 **Pong Game** — Classic Pong game implementation showcasing programming fundamentals such as game loops, user input handling, and state management  
   https://github.com/CadeSchiano/pong-game

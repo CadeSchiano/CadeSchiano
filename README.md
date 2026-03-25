@@ -41,7 +41,7 @@ Relevant coursework includes:
 
 ## 📌 Featured Projects
 
-- **Smart Activity Tracker** - Group Project Web is a full-stack collaborative project management app built with React, Vite, Tailwind CSS, Express, Prisma, PostgreSQL, JWT authentication, and local file uploads.
+- **Smart Activity Tracker** - Group Project Web is a full-stack collaborative project management app built with React, Vite, Tailwind CSS, Express,Prisma, PostgreSQL, JWT authentication, and local file uploads.
   https://github.com/CadeSchiano/Group_Work_Web
 
 - **RLBOT** — Automation-focused bot project demonstrating logical decision-making, structured code, and experimentation with intelligent behavior  

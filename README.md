@@ -42,6 +42,7 @@ Relevant coursework includes:
 ## 📌 Featured Projects
 
 - **Smart Activity Tracker** - Group Project Web is a full-stack collaborative project management app built with React, Vite, Tailwind CSS, Express,Prisma, PostgreSQL, JWT authentication, and local file uploads.
+ 
   https://github.com/CadeSchiano/Group_Work_Web
 
 - **RLBOT** — Automation-focused bot project demonstrating logical decision-making, structured code, and experimentation with intelligent behavior  
@@ -50,7 +51,7 @@ Relevant coursework includes:
 - **Smart Activity Tracker** — Python-based application emphasizing clean architecture, real-world use cases, and separation of core logic from interface code  
   https://github.com/CadeSchiano/smart_activity_tracker
 
-- 
+
 
 ---
 

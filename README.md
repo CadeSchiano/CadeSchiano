@@ -41,14 +41,16 @@ Relevant coursework includes:
 
 ## 📌 Featured Projects
 
-- 🤖 **RLBOT** — Automation-focused bot project demonstrating logical decision-making, structured code, and experimentation with intelligent behavior  
+- **Smart Activity Tracker** - Group Project Web is a full-stack collaborative project management app built with React, Vite, Tailwind CSS, Express, Prisma, PostgreSQL, JWT authentication, and local file uploads.
+  https://github.com/CadeSchiano/Group_Work_Web
+
+- **RLBOT** — Automation-focused bot project demonstrating logical decision-making, structured code, and experimentation with intelligent behavior  
   https://github.com/CadeSchiano/RLBOT
 
-- 📊 **Smart Activity Tracker** — Python-based application emphasizing clean architecture, real-world use cases, and separation of core logic from interface code  
+- **Smart Activity Tracker** — Python-based application emphasizing clean architecture, real-world use cases, and separation of core logic from interface code  
   https://github.com/CadeSchiano/smart_activity_tracker
 
-- 🕹 **Pong Game** — Classic Pong game implementation showcasing programming fundamentals such as game loops, user input handling, and state management  
-  https://github.com/CadeSchiano/pong-game
+- 
 
 ---
 

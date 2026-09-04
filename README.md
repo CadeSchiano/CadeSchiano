@@ -16,7 +16,7 @@
 
 ## 🎓 About Me
 
-I'm a passionate college student pursuing a **Bachelor's Degree in Computer Science** with a **minor in AI & Society** at Bowling Green State University (graduating 2026). I specialize in **full-stack development** with a strong focus on **user experience, accessibility, and clean architecture**. 
+I'm a passionate college student pursuing a **Bachelor's Degree in Computer Science** with a **minor in AI & Society** at Bowling Green State University (graduating 2027). I specialize in **full-stack development** with a strong focus on **user experience, accessibility, and clean architecture**. 
 
 I love solving real-world problems through technology and building applications that are not just functional, but intuitive and accessible to all users.
 
